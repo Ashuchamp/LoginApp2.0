@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1067457053012",
+    "firebase_url": "https://logindemo-27124.firebaseio.com",
+    "project_id": "logindemo-27124",
+    "storage_bucket": "logindemo-27124.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1067457053012:android:50b3421ac5422848",
+        "android_client_info": {
+          "package_name": "com.example.tomat.loginapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1067457053012-omt2cp7eo52ak02o4qdi55b6gd4sbpgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCRdUDfJzO37XWw_XBNo2H92E3JlWdBiVY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
